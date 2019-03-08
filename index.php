@@ -87,6 +87,7 @@ and open the template in the editor.
   <a href="CV.html">My CV</a>
   <a href="Interests.html">Interest Page</a>
   <a href="eBus1.php">Consultancy Calculator</a>
+  <a href="Homepage.html">Homepage</a>
 </div>
         <h1>Consulting Services:
         </h1>
