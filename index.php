@@ -12,7 +12,9 @@ and open the template in the editor.
         body {
             background-color:#F1f1f2;
                 font-weight: bolder;
-                color: #888;
+                color: #000;
+                background-image: url("Consultancy.jpg");
+      font-family: Verdana,sans-serif;
         }
         head {
             background-image: url("Consultancy.jpg");
@@ -23,6 +25,12 @@ and open the template in the editor.
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-style: oblique;
+}
+.but{
+    font-size: 45px;
+    font-weight: bold;
+    font-family:"Times New Roman", Times, serif;
+    font-style: oblique;
 }
 
 /* Style the top navigation bar */
@@ -96,5 +104,6 @@ and open the template in the editor.
         </li><br />
         <li>By taking time to understand your business and the issues and challenges you are facing, our consultancy teams <br />leverage local and global knowledge to help you challenge conventions and achieve your strategic objectives.
         </li></ul></p>
+        <div class="but"><p>Click above to view the CV, Interests page or the Consultancy Calculator</p></div>
     </body>
 </html>
