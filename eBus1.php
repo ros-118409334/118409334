@@ -52,7 +52,7 @@ p {
             </tr>
             <tr>
                             <td>Blockchain @ €1000</td>
-                            <td><input type="radio" id="Blockchain" name="rdoGroup" value="1000" /></td>
+                            <td><input type="radio" id="Blockchain" name="rdoGroup" value="1000" required=""/></td>
                         </tr>              
             <tr>
                             <td>Autonomous things (Robots) @ €2000</td>

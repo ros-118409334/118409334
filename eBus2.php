@@ -74,7 +74,7 @@ p {
                         </tr>
                         <tr>
                             <td>Password</td>
-                            <td><input type="password" id="txtPassword" name="txtPassword" value=""/></td>
+                            <td><input type="password" id="txtPassword" name="txtPassword" value="" required=""/></td>
                         </tr>
                         <tr>
                            
