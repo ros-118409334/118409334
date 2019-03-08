@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>eBus3</title>
+        <title>eBusiness 3</title>
         
         <style>
         body {
